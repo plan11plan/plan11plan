@@ -1,5 +1,6 @@
-## Hi there 👋
-
+목표 대신 시스템을 
+열정 대신 체력을
+성공 대신 운을 쫓습니다.
 <!--
 **plan11plan/plan11plan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
