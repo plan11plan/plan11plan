@@ -2,6 +2,7 @@
 - 열정 대신  **체력**으로
 - 회상 대신  **회고**로
 - 실패와 기회를 찾아다닙니다.
+- https://plan22plan.tistory.com/
 <!--
 **plan11plan/plan11plan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
